@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/gminer.Miner/gminer.Miner.csproj" />
+    <Project Path="src/gminer.Worker/gminer.Worker.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/gminer.Miner.Tests/gminer.Miner.Tests.csproj" />
+  </Folder>
+</Solution>
